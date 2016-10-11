@@ -1,6 +1,5 @@
 #!/bin/bash
 # 2paq- Explorador de paquetes
-# Herramienta para listar paquetes del sistema.
 #VARIABLES
 correcto="1"
 #PANTALLA PRINCIPAL-ASIGNAR NOMBRE DE ARCHIVO
